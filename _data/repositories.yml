@@ -1,14 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - astro-jingtao
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - astro-jingtao/astro_statistics_assistant
+  - astro-jingtao/my_statistical_inference
+  - astro-jingtao/emilkit
+  - astro-jingtao/ndtest
+  - astro-jingtao/jax_gmm
+  - astro-jingtao/astro_image_toolkits
