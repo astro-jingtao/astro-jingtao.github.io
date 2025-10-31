@@ -9,3 +9,5 @@ description:
 toc:
   sidebar: left
 ---
+
+For complete details, please refer to the PDF version of the CV.
